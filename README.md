@@ -22,3 +22,4 @@ Software Package:
 2. part-r-00000 and dictionary.file-0 are the raw type data output from Mahout after the sequency to vectors process.
 3. VectorLoader is a Java program to load the raw vector into the readable Opinion Mining table for the Linear Regression.
 4. LinearRegression is a Java program to load the table into the system and use map-reduce in Hadoop to figure out the equation.
+5. pom.xml is the maven project setting in our eclipse IDE.
